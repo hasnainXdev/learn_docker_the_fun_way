@@ -1,0 +1,1 @@
+print("hello! FastAPI + Docker")
